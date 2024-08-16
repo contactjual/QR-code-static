@@ -5,8 +5,8 @@
     --darkblueColor: hsl(218, 44%, 22%);
 }
 *,
-::after,
-::before {
+*::after,
+*::before {
     margin: 0;
     padding: 0;
     list-style: none;
