@@ -1,3 +1,3 @@
 live view (static)..............................
 
-https://contactjual.github.io/QR-code-static-/
+https://contactjual.github.io/QR-code-static
