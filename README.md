@@ -1,0 +1,3 @@
+live view (static)..............................
+
+https://contactjual.github.io/prac36-project2..-QR-code/
